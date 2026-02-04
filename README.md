@@ -99,3 +99,19 @@ Created multiple insightful visualizations including:
 ---
 
 ## 📎 Project Structure
+GooglePlay-EDA/
+│
+├── googleplay_eda.ipynb
+├── README.md
+└── dataset.csv
+
+---
+
+
+---
+
+## 🤝 Connect
+If you'd like to suggest improvements or collaborate, feel free to connect with me on LinkedIn.
+
+---
+⭐ If you found this project useful, consider giving it a star!
